@@ -27,5 +27,5 @@
 ## Dev Ops
 
 - [ ] Colorful Banner
-- [ ] Deaomnize
+- [ ] Daeomnize
 - [ ] DevTools
