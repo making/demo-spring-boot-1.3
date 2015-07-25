@@ -14,7 +14,7 @@
 - [x] [EmbeddedMongoDB](demo-embedded-mongodb)
 - [ ] jOOQ
 - [ ] SendGrid
-- [ ] Spring Session
+- [x] [Spring Session](demo-spring-session)
 
 ## Non-functionalities
 
