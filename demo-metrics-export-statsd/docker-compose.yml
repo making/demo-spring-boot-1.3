@@ -1,0 +1,6 @@
+statsd:
+  image: kamon/grafana_graphite
+  ports:
+    - "80:80"
+    - "8125:8125/udp"
+    - "8126:8126"
