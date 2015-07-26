@@ -4,7 +4,7 @@
 
 - [ ] SSE
 - [ ] CROS
-- [ ] ScriptEngineView
+- [x] [ScriptEngineView](demo-scriptview-ejs)
 - [ ] CompletableFuture
 
 ## New AutoConfigures
