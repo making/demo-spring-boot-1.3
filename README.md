@@ -9,7 +9,7 @@
 
 ## New AutoConfigures
 
-- [ ] Cache
+- [x] [Cache (Simple)](demo-cache), [Guava](demo-cache-guava), [Redis](demo-cache-redis)
 - [x] [OAuth2](demo-oauth), [SSO](demo-oauth-sso)
 - [x] [EmbeddedMongoDB](demo-embedded-mongodb)
 - [x] [jOOQ](demo-jooq)
