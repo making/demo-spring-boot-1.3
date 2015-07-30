@@ -10,7 +10,7 @@
 ## New AutoConfigures
 
 - [ ] Cache
-- [x] [OAuth2](demo-oauth)
+- [x] [OAuth2](demo-oauth), [SSO](demo-oauth-sso)
 - [x] [EmbeddedMongoDB](demo-embedded-mongodb)
 - [ ] jOOQ
 - [ ] SendGrid
