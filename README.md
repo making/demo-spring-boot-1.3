@@ -12,7 +12,7 @@
 - [ ] Cache
 - [x] [OAuth2](demo-oauth), [SSO](demo-oauth-sso)
 - [x] [EmbeddedMongoDB](demo-embedded-mongodb)
-- [ ] jOOQ
+- [x] [jOOQ](demo-jooq)
 - [ ] SendGrid
 - [x] [Spring Session](demo-spring-session)
 
