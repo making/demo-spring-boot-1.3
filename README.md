@@ -10,7 +10,7 @@
 ## New AutoConfigures
 
 - [x] [Cache (Simple)](demo-cache), [Guava](demo-cache-guava), [Redis](demo-cache-redis),[JCache (Coherence)](demo-cache-jcache-coherence)
-- [x] [OAuth2](demo-oauth), [SSO](demo-oauth-sso)
+- [x] [OAuth2](demo-oauth), [SSO (GitHub)](demo-oauth-sso), [SSO (Google)](demo-oauth-sso-google)
 - [x] [EmbeddedMongoDB](demo-embedded-mongodb)
 - [x] [jOOQ](demo-jooq)
 - [ ] SendGrid
