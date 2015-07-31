@@ -5,8 +5,7 @@
 - [x] [SSE](demo-sse)
 - [ ] CORS
 - [x] [ScriptEngineView](demo-scriptview-ejs)
-- [ ] CompletableFuture
-
+- [x] [CompletableFuture](demo-completablefuture), [@Async](demo-completablefuture-service)
 ## New AutoConfigures
 
 - [x] [Cache (Simple)](demo-cache), [Guava](demo-cache-guava), [Redis](demo-cache-redis),[JCache (Coherence)](demo-cache-jcache-coherence)
