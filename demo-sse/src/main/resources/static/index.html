@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SSE Demo</title>
+</head>
+<body>
+<ul id="list">
+
+</ul>
+<script type="text/javascript">
+    var source = new EventSource('/hello');
+    var list = document.getElementById('list');
+    source.onmessage = function (e) {
+        console.log(e);
+        list.innerHTML += '<li>' + e.data + '</li>';
+    };
+    source.onerror = function (e) {
+        console.log(e);
+        e.target.close();
+    };
+
+</script>
+</body>
+</html>
