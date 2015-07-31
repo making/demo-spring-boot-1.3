@@ -2,8 +2,8 @@
 
 ## Spring 4.2 Support
 
-- [ ] SSE
-- [ ] CROS
+- [x] [SSE](demo-sse)
+- [ ] CORS
 - [x] [ScriptEngineView](demo-scriptview-ejs)
 - [ ] CompletableFuture
 
