@@ -25,6 +25,6 @@
 
 ## Dev Ops
 
-- [ ] Colorful Banner
+- [x] [Ascii Art Banner](demo-banner)
 - [x] [Systemd Service](demo-service)
 - [ ] DevTools
