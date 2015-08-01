@@ -27,4 +27,4 @@
 
 - [x] [Ascii Art Banner](demo-banner)
 - [x] [Systemd Service](demo-service)
-- [ ] DevTools
+- [x] [DevTools](demo-devtools)
