@@ -1,4 +1,3 @@
-${AnsiColor.BRIGHT_GREEN}
 ${AnsiColor.DEFAULT}字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字字
 ${AnsiColor.DEFAULT}字字字字字字字字字字${AnsiColor.BRIGHT_GREEN}ルルルルルルルルルルルルルルルルルルルル${AnsiColor.DEFAULT}字字字字字字字字字字
 ${AnsiColor.DEFAULT}字字字字字字字字字${AnsiColor.BRIGHT_GREEN}ルルルルルルルルルルルルルルルルルルルルルル${AnsiColor.DEFAULT}字字字字字字字字字
